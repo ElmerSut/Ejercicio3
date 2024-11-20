@@ -1,0 +1,13 @@
+.columna-izquierda {
+  float: left;
+  width: 50%;
+}
+
+.columna-derecha {
+  float: right;
+  width: 50%;
+}
+.columna-centrar {
+  float: center;
+  width: 100%;
+}
